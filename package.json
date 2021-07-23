@@ -1,0 +1,14 @@
+{
+  "name": "registerbot_by_yuki_azura",
+  "version": "1.0.0",
+  "description": "Jangan DiJual Ya Sayang!!! Subscribe Channel YouTube Rama Putra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuki Azura",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
